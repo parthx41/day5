@@ -1,0 +1,63 @@
+ body{
+      background-image:url("https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523");
+    background-size:cover;
+    background-repeat:unset
+    }
+  
+h1{
+  color: white;
+  text-align: center;
+  font-family: "Doto", sans-serif;
+}
+  h3
+  {
+    color: white;
+    text-align: center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  h2{
+    color: white;
+    text-align: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+   p{
+    color: white;
+    text-align: left;
+    font-size: 20px;
+   }
+h5{
+  color: #ffff;
+  text-align: center;
+  text-decoration: underline;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+div{
+  height: 100px;
+  padding: 2px ;  
+  border: black;
+  display: flex;
+  align-items: center;
+}
+ button{
+  background-color: orange;
+  color: #ffff;
+  font-weight: bold;
+  border: red;
+  border-radius: 2px;
+  padding: 12px 24px;
+  font-size: 20px;
+  
+  display: block;
+  margin: auto;
+  
+}
+
+
+
+
+
+  
+
+
+
+
